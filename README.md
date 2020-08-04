@@ -42,7 +42,7 @@ Here are basic rules of electrical outlet placement per the NEC rules:
 
 ## Submittal
 Your solution should use the minimum number of outlets while satisfying all the rules above outlined above. Please submit a {your_name}.zip file and make sure the following are part of your submission:
-* **outlets.json** - a file containing the coordinates in WCS for outlet locations
+* **outlets.json** - a file containing the coordinates in WCS for outlet locations. You do not need to include the full geometry of the outlets, though you are welcome to.
 * **outlet_placer.py** - with your solution
 * **solution.md** - a brief explanation of what you did and why. There are some questions in there that are meant to act as guides rather than a "lab report"
 * any other supporting files
