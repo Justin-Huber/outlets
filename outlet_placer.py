@@ -12,7 +12,7 @@ def main():
         studio = json.load(json_file)
 
     # floor info
-    floors = "json/floors_info.json"
+    floors = "json/floor_info.json"
     with open(floors) as json_file:
         floors = json.load(json_file)
 
